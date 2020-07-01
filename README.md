@@ -11,4 +11,7 @@ api|说明
 tushare|获取全部股票名称和代码
 http://tool.cnfunny.cn/api/stock/list|获取股票历史数据
 
+
+![数据图片](https://github.com/SuiMingYang/StockAnalysis/tree/master/temp/stock.png)
+
 ## analysis.py数据分析
